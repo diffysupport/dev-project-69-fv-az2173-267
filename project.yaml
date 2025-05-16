@@ -1,5 +1,5 @@
 basic:
-    name: 'Lind, Quigley and Altenwerth'
+    name: 'Parker Ltd'
     environments:
         production: 'https://google.com'
         staging: ''
