@@ -1,5 +1,5 @@
 basic:
-    name: 'Parker Ltd'
+    name: 'Abshire LLC'
     environments:
         production: 'https://google.com'
         staging: ''
